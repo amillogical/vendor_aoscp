@@ -20,7 +20,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     Bolt \
     GalleryX \
-    Luna \
+    Ruthless \
     MusicX
 
 # Providers
